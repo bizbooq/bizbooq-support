@@ -1,6 +1,6 @@
 # How do I create a dashboard?
 
-Dashboards give you a quick overview of your business at any given time. 
+Dashboards give you a quick overview of your business at any given time.
 
 - [Create a dashboard](#create-dashboard)
   - [Dashboard details](#dashboard-details)
@@ -48,6 +48,8 @@ There are two ways to create the dashboard:
 <div align='center'>
 <img width='200' src='../../../media/form_buttons.png'>
 </div>
+
+> To update an already created dashboard, go to the dashboard listing page. From the actions dropdown to the right end of a dashboard, click on edit.
 
 ## Widgets <a id="#widgets"></a>
 
@@ -135,5 +137,7 @@ The following are the steps for creating a widget:
 ### Save widget <a id="#save-widget"></a>
 
 5. Once you're done, click on the save button at the bottom of the screen. This will save the new widget and refresh the dashboard.
+
+> To update an already created widget, click edit from the dropdown at the top right corner of the widget card. An update widget form modal will show on your screen.
 
 ## FAQs <a id="#faqs"></a>
