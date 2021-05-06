@@ -2,6 +2,14 @@
 
 Invoices are commercial documents that serve as records of transactions between a buyer and a seller. In Ciniki, it helps track your income. You can also specify an invoice as recurring. This way it will be automatically generated for you according to your settings.
 
+An invoice:
+
+- serves as a payment request to a customer for goods delivered or services rendered.
+- provides your business with a sales records.
+- is issued before payment is received.
+
+To learn more:
+
 - [Create Invoice](#create-invoice)
   - [Company, Customer and Invoice Details](#invoice-details)
   - [Items, Discounts and Taxes](#items)
