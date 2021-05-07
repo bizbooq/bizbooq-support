@@ -53,7 +53,7 @@ There are two ways to create the dashboard:
 
 ## Widgets <a id="#widgets"></a>
 
-Ciniki has a number of widgets that you can add to a dashboard. They are:
+BizBooq has a number of widgets that you can add to a dashboard. They are:
 
 - **Total Income** - The **Total Income** widget shows the total amount generated from your business' sale of goods or services. It displays your company's total earnings or income within the current date range of the dashboard.
 

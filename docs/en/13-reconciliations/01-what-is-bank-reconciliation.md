@@ -1,6 +1,6 @@
 # What is Bank Reconciliation?
 
-Bank reconciliation is a Ciniki feature that allows you to reconcile your bank statement with entries in Ciniki.
+Bank reconciliation is a BizBooq feature that allows you to reconcile your bank statement with entries in BizBooq.
 
 > Reconciled transactions can not be deleted. If you need to delete a reconciled transaction, you have to unreconcile it first.
 

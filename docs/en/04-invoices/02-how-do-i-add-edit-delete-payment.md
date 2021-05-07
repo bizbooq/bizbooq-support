@@ -1,6 +1,6 @@
 # How do I add, update or delete a Payment?
 
-You have created and sent an invoice to your customer. The next logical step is getting paid. Currently, Ciniki only supports `offline payments`. Support for online payments is coming soon.
+You have created and sent an invoice to your customer. The next logical step is getting paid. Currently, BizBooq only supports `offline payments`. Support for online payments is coming soon.
 
 <div align='center'>
 <img width='600' src='media/payment_buttons.png'>
@@ -73,7 +73,7 @@ To add a payment:
 <img width='500' src='media/invoice_show.png'>
 </div>
 
-3. Click on `Add Payment` button at the top of the page. This should bring up a payment addition modal. The amount will be populated with the full outstanding total. You can overwrite this with a different amount if needed. Ciniki supports partial payment addition.
+3. Click on `Add Payment` button at the top of the page. This should bring up a payment addition modal. The amount will be populated with the full outstanding total. You can overwrite this with a different amount if needed. BizBooq supports partial payment addition.
 
 <div align='center'>
 <img width='400' src='media/new_payment.png'>

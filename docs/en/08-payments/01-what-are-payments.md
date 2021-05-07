@@ -40,9 +40,9 @@ To make changes to a payment, use these steps:
 
 ## Import payments <a id="#import-payment"></a>
 
-A very important feature of Ciniki is the ability to transfer data from other accounting softwares.
+A very important feature of BizBooq is the ability to transfer data from other accounting softwares.
 
-Use the following steps to import payments into Ciniki:
+Use the following steps to import payments into BizBooq:
 
 1. Click the `payments` link from the sidebar navigation.
 2. Click the `Import` button at the top left corner of the page. This brings up an import modal.

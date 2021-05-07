@@ -6,7 +6,7 @@ When you launch a workspace, the dashboard is the first page that you see. It ho
 <img width='600'  src='media/dashboard.png'>
 </div>
 
-Ciniki supports multiple dashboards. This means you can create more than one dashboard for a workspace and attach them to users. This way your workspace users can conveniently be concerned with only the widgets that are relevant to them according to their roles.
+BizBooq supports multiple dashboards. This means you can create more than one dashboard for a workspace and attach them to users. This way your workspace users can conveniently be concerned with only the widgets that are relevant to them according to their roles.
 
 ## Date Range
 

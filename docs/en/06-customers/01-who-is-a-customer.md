@@ -47,13 +47,13 @@ To give a customer access to the client portal, you check the client portal acce
 <img width='200' src='media/cp_access.png'>
 </div>
 
-If the customer is already a Ciniki registered user, an email will be sent to them that they have been give access to the client portal of your workspace. Otherwise, an invitation link will be sent to their email. They will be automatically given access to your workspace's client portal after a successful registration using the link.
+If the customer is already a BizBooq registered user, an email will be sent to them that they have been give access to the client portal of your workspace. Otherwise, an invitation link will be sent to their email. They will be automatically given access to your workspace's client portal after a successful registration using the link.
 
 ## Import customers <a id="#import-customer"></a>
 
-A very important feature of Ciniki is the ability to transfer data from other accounting softwares.
+A very important feature of BizBooq is the ability to transfer data from other accounting softwares.
 
-Use the following steps to import customers into Ciniki:
+Use the following steps to import customers into BizBooq:
 
 1. Click the `customers` link from the sidebar navigation.
 2. Click the `Import` button at the top left corner of the page. This brings up an import modal.

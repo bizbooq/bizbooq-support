@@ -1,6 +1,6 @@
-# What is Ciniki Accounting?
+# What is BizBooq Accounting?
 
-Ciniki is a full-featured accounting software for small businesses that allows you to easily track and manage your finances in one place. Ciniki helps you get your work done more efficiently. With Ciniki, you can manage all your businesses in one place, detect and eliminate bank transaction errors, find and review invoices in seconds and do book-keeping in your language with regional currency support. When you need an online accounting software that can handle recurring payments, bills and invoices, with Ciniki, you don't have to look any further!
+BizBooq is a full-featured accounting software for small businesses that allows you to easily track and manage your finances in one place. BizBooq helps you get your work done more efficiently. With BizBooq, you can manage all your businesses in one place, detect and eliminate bank transaction errors, find and review invoices in seconds and do book-keeping in your language with regional currency support. When you need an online accounting software that can handle recurring payments, bills and invoices, with BizBooq, you don't have to look any further!
 
 Let's get started!
 
@@ -24,7 +24,7 @@ Other browser(s) we support:
 
 ## Getting Started
 
-Ready to give your business the accounting spin it needs to get to the next level? Make sure you have all that it's needed listed above and visit [the sign up page](https://workspace.cinikiapp.com/auth/register/language).
+Ready to give your business the accounting spin it needs to get to the next level? Make sure you have all that it's needed listed above and visit [the sign up page](https://workspace.BizBooqapp.com/auth/register/language).
 
 To signup, use the following steps:
 
@@ -52,7 +52,7 @@ To signup, use the following steps:
 
 You have successfully registered. Now you want to setup your workspace. These are the steps:
 
-1. Go to the [the sign in page](https://workspace.cinikiapp.com/auth/login) and login.
+1. Go to the [the sign in page](https://workspace.BizBooqapp.com/auth/login) and login.
 2. You will then be directed to the workspace launch page. From here, you can either launch from the list of workspaces or create a new one.
 
 <div align='center'>
@@ -81,7 +81,7 @@ You have successfully registered. Now you want to setup your workspace. These ar
 
 7. Congratulations! You have successfully setup your workspace. You should be directed to the dashboard now.
 
-## Ciniki User Interface
+## BizBooq User Interface
 
 The dashboard was designed with the user in mind. It is simple, intuitive and extremely easy to use. This is so you don't spend hours reading the documentation and, instead, utilize your intuition for guidance.
 

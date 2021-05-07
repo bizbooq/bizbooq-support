@@ -1,6 +1,6 @@
 # How can I add a currency?
 
-Ciniki supports multiple currency. This means you can record transactions conveniently in more than one currency without having to worry about conversitions.
+BizBooq supports multiple currency. This means you can record transactions conveniently in more than one currency without having to worry about conversitions.
 
 - [Create Currency](#create-currency)
 - [Edit Currency](#edit-currency)

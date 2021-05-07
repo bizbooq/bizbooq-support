@@ -1,6 +1,6 @@
 # How can I create a transfer?
 
-Transfer is created when you want to move money from one account to another. For a single transfer, Ciniki creates a revenue and payment record for the accounts involved.
+Transfer is created when you want to move money from one account to another. For a single transfer, BizBooq creates a revenue and payment record for the accounts involved.
 
 > Money transferred between transfers with different currencies will be converted to the currency of the receiving account based on the currency rates you have setup.
 
@@ -42,9 +42,9 @@ To make changes to a transfer, use these steps:
 
 ## Import Transfers <a id="#import-transfer"></a>
 
-A very important feature of Ciniki is the ability to transfer data from other accounting softwares.
+A very important feature of BizBooq is the ability to transfer data from other accounting softwares.
 
-Use the following steps to import transfers into Ciniki:
+Use the following steps to import transfers into BizBooq:
 
 1. Click the `Transfers` link from the sidebar navigation.
 2. Click the `Import` button at the top left corner of the page. This brings up an import modal.

@@ -1,1 +1,1 @@
-# Ciniki Support Documentation
+# BizBooq Support Documentation

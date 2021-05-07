@@ -1,6 +1,6 @@
 # How do I create an Invoice?
 
-Invoices are commercial documents that serve as records of transactions between a buyer and a seller. In Ciniki, it helps track your income. You can also specify an invoice as recurring. This way it will be automatically generated for you according to your settings.
+Invoices are commercial documents that serve as records of transactions between a buyer and a seller. In BizBooq, it helps track your income. You can also specify an invoice as recurring. This way it will be automatically generated for you according to your settings.
 
 An invoice:
 
@@ -125,9 +125,9 @@ Attachment is where you share files and documents with your customer relevant to
 
 ## Import Invoices <a id="#import-item"></a>
 
-A very important feature of Ciniki is the ability to transfer data from other accounting softwares.
+A very important feature of BizBooq is the ability to transfer data from other accounting softwares.
 
-Use the following steps to import Invoices into Ciniki:
+Use the following steps to import Invoices into BizBooq:
 
 1. Click the `Invoices` link from the sidebar navigation.
 2. Click the `Import` button at the top left corner of the page. This brings up an import modal.
