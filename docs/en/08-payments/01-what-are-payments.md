@@ -1,6 +1,6 @@
 # What are payments?
 
-Payments are income payments. It can be an independent record (i.e. purchase receipt) or attached to a bill.
+Payments are revenues payments. It can be an independent record (i.e. purchase receipt) or attached to a bill.
 
 - [Create Payment](#create-payment)
 - [Edit Payment](#edit-payment)
