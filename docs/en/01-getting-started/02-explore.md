@@ -24,7 +24,7 @@ Other browser(s) we support:
 
 ## Getting Started
 
-Ready to give your business the accounting spin it needs to get to the next level? Make sure you have all that it's needed listed above and visit [the sign up page](https://workspace.BizBooqapp.com/auth/register/language).
+Ready to give your business the accounting spin it needs to get to the next level? Make sure you have all that it's needed listed above and visit [the sign up page](https://app.BizBooqapp.com/auth/register/language).
 
 To signup, use the following steps:
 
@@ -52,7 +52,7 @@ To signup, use the following steps:
 
 You have successfully registered. Now you want to setup your workspace. These are the steps:
 
-1. Go to the [the sign in page](https://workspace.BizBooqapp.com/auth/login) and login.
+1. Go to the [the sign in page](https://app.BizBooqapp.com/auth/login) and login.
 2. You will then be directed to the workspace launch page. From here, you can either launch from the list of workspaces or create a new one.
 
 <div align='center'>
