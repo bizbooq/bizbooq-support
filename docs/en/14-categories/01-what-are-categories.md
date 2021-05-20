@@ -1,6 +1,6 @@
 # What are categories?
 
-Categories are income payments. It can be an independent record (i.e. deposit) or attached to an invoice.
+Categories help you separate items, incomes, and expenses from each other.
 
 - [Create Category](#create-category)
 - [Edit Category](#edit-category)
